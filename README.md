@@ -1,5 +1,5 @@
 ## Hello, I'm Mykhailo 👋
-### And I'm a Junior Java Engineer From Ukraine 👨🏻‍💻🇺🇦
+## And I'm a Junior Java Engineer From Ukraine 👨🏻‍💻🇺🇦
 ---
 ### 🛠 Technical Stack
 
