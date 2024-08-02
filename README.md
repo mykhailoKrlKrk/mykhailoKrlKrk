@@ -1,10 +1,10 @@
 ## Hello, I'm Mykhailo 👋
 ### And I'm a Junior Java Engineer From Ukraine 👨🏻‍💻🇺🇦
+---
 <div align="center">
   <img src="https://mcdn.wallpapersafari.com/medium/98/9/lvH8Qg.png" alt="Java Full Stack Logo" width="500">
 </div>
 ---
-
 ### 🛠 Technical Stack
 
 - **Languages:** Java (8 - 21)
