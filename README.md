@@ -2,7 +2,7 @@
 ### And I'm a Junior Java Engineer From Ukraine 👨🏻‍💻🇺🇦
 ---
 <div align="center">
-  <img src="https://mcdn.wallpapersafari.com/medium/98/9/lvH8Qg.png" alt="Java Full Stack Logo" width="400" height="auto">
+  <img src="https://mcdn.wallpapersafari.com/medium/98/9/lvH8Qg.png" alt="Java Full Stack Logo" width="800" height="400">
 </div>
 
 ---
