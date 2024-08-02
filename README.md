@@ -24,4 +24,4 @@
 
 ---
 
-![Java Full Stack Logo](https://img1.wallspic.com/previews/8/8/2/3/6/163288/163288-logo_java_full_stack-java-programming_language-javascript-standing-x750.jpg)
+![Java Full Stack Logo](https://mcdn.wallpapersafari.com/medium/98/9/lvH8Qg.png)
