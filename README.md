@@ -24,4 +24,6 @@
 
 ---
 
-![Java Full Stack Logo](https://mcdn.wallpapersafari.com/medium/98/9/lvH8Qg.png)
+<div align="center">
+  <img src="https://mcdn.wallpapersafari.com/medium/98/9/lvH8Qg.png" alt="Java Full Stack Logo" width="300" height="200">
+</div>
